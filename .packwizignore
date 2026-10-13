@@ -1,0 +1,5 @@
+/instance/
+/dist/
+/README.md
+/build-instance.sh
+/.gitignore

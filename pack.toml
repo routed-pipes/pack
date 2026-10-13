@@ -1,0 +1,13 @@
+name = "Routed Pipes Pack"
+author = "larsgrah"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "959ef8b0653c1edd40df5182db6defb248e845561bdbe03c8e71c4ba633078b8"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.259"

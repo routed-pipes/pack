@@ -65,16 +65,8 @@ file = "config/openloader/packs/routed-pipes-pack/data/railcraft/neoforge/biome_
 hash = "99b969132018e9da1071065a8593ba9564928b1ed0aa5ae3ab45f9dac071f7d5"
 
 [[files]]
-file = "config/openloader/packs/routed-pipes-pack/data/routedpipespack/advancement/starting_kit.json"
-hash = "c5c9db00c9246ba24324a678e2d5c06ec53a8e0b1a9bb44570eb4f98dc06ae11"
-
-[[files]]
-file = "config/openloader/packs/routed-pipes-pack/data/routedpipespack/function/starting_kit.mcfunction"
-hash = "a1a1df138bc6785015dd3624d57f91189ad6655f9a538b9ca99b9e321434e810"
-
-[[files]]
 file = "config/openloader/packs/routed-pipes-pack/pack.mcmeta"
-hash = "97938d12739dfd2b45b5dcc1b6a0aecff38b273dcc1dcb4bb666faa0b0d35748"
+hash = "12b54dbef7fcc76a13e16d47ec9155482fea5a2b35913963735c04fdbbc4ed13"
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
@@ -241,11 +233,6 @@ hash = "8691a6c13b8f350ab8641b4a35d9793f0321489d456a24700c4e514268e024cd"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
-metafile = true
-
-[[files]]
 file = "mods/iron-chests-228756-5491156.jar"
 hash = "dae66a38a33c2adac6ca0b7a4fbf4b365ba37a6a1f7a10961028617965c1fcaf"
 
@@ -262,16 +249,6 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "cfe4d6a3acdd8af529af7da1c844517925a68c8e23929b4345e14d73935df909"
-metafile = true
-
-[[files]]
-file = "mods/kotlin-for-forge.pw.toml"
-hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "0d2a00252d64ed7d2d9b19994f7accb780304be61f3903d36e810714b414c6cb"
 metafile = true
 
 [[files]]

@@ -24,7 +24,6 @@ Your own extra mods in the `mods` folder are left alone.
 - Tech: Mekanism, Immersive Engineering, Create, Industrial Foregoing, Powah, Extreme Reactors, Draconic Evolution
 - Tekkit classics: Project Red, CC: Tweaked, Railcraft Reborn, AE2, Ender Storage, MFFS, ProjectE, Iron Chests
 - One kind of every metal: Almost Unified, and the ores other mods repeat are turned off
-- A starting kit on your first join
 
 Routed Pipes is based on the design of Logistics Pipes by Krapht and the RS485 team and uses its original
 textures under the MMPL. It is not affiliated with or endorsed by them.

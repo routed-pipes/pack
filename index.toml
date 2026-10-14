@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ProjectE/mapping.toml"
+hash = "65db0b5f7ddd5e6b7c7a1d39ac2be9e2635622663a42c7f8f4536329f020f06c"
+
+[[files]]
 file = "config/almostunified/unification/materials.json"
 hash = "ee72ce758b02488dbca30783060cb7b2578376380cc6c787f82960e2ffb2cb62"
 

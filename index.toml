@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/routedpipes-0.1.0.jar"
-hash = "5a8c184f4ea473e5d70b7ec649cb541d718da01b97e1a181b0bf67407bb2b265"
+hash = "43aa9644ca004809efb899f9e547153fe38a29a5103d8c4dc89af68ff0d33538"
 
 [[files]]
 file = "mods/sodium.pw.toml"
